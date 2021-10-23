@@ -1,4 +1,8 @@
+# WELCOME
+![Visitor Count](https://profile-counter.glitch.me/{lexonerus}/count.svg)
+
 // RU  :ru:
+---
 - 👋 Привет, это @lexonerus
 - 👀 Я интересуюсь iOS разработкой и весь код буду выкладывать тут
 - :cyprus: Однажды я перееду жить на Кипр, и программирование поможет мне с этим
@@ -8,6 +12,7 @@
 [веб-сайте](https://www.lexone.ru), и в [telegram](https://t.me/lexonerus)
 
 // EN  :uk:
+---
 - 👋 Hi, I’m @lexonerus
 - 👀 I’m interested in iOS dev and all my code will live here
 - :cyprus: I'll someday make Cyprus as my home, and programming help me to do this
